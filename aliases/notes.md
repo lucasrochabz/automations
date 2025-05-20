@@ -7,7 +7,7 @@
 - alias cows="/home/lucas/www/automations/daily/open_website.sh"
 - alias webstart="/home/lucas/www/automations/daily/web-start.sh"
 
-### Aliases para navegação e utilitários
+### Aliases para navegação e úteis
 
 - alias repo="cd ~/www/repositorio"
 - alias newt="gnome-terminal --tab"
