@@ -5,7 +5,7 @@ Repositório de automações no Linux
 ### Árvore de diretórios
 
 ```bash
-/
+automations/
 ├── cleanup/
 ├── daily/
     ├── open_website.sh # cows exemplo.com
