@@ -2,12 +2,13 @@
 
 Repositório de automações no Linux
 
-### Diretório
+### Árvore de diretórios
 
-```
+```bash
 /
 ├── cleanup/
 ├── daily/
-    └── web-start.sh
+    ├── open_website.sh # cows exemplo.com
+    └── web_init.sh # webinit
 └── setup
 ```

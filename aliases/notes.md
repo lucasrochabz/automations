@@ -1,18 +1,24 @@
 ### Aliases para teste
 
-alias oi='echo "Olá, mundo!"'
+- alias oi='echo "Olá, mundo!"'
 
-### Aliases para automação
+### Aliases para Google Chrome (c)
 
-alias webstart='/home/lucas/www/automations/daily/web-start.sh'
+- alias cows="/home/lucas/www/automations/daily/open_website.sh"
+- alias webstart="/home/lucas/www/automations/daily/web-start.sh"
 
-### Aliases para navegação
+### Aliases para navegação e utilitários
 
-alias repo='cd ~/www/repositorio'
-alias newt='gnome-terminal --tab'
+- alias repo="cd ~/www/repositorio"
+- alias newt="gnome-terminal --tab"
 
-### Aliases para git
+### Aliases para Git (g)
 
-alias gb='git branch'
-alias gs='git status'
-alias gc='git commit -m'
+- alias gb="git branch"
+- alias gs="git status"
+- alias ga="git add ."
+- alias gc="git commit -m"
+
+### Aliases para limpeza
+
+- alias cclean="rm -rf node_modules && rm package-lock.json && npm cache clean --force"
