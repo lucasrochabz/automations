@@ -2,13 +2,12 @@
 
 Repositório de automações no Linux
 
-###Diretório
+### Diretório
 
 ```
 /
 ├── cleanup/
 ├── daily/
-    └──web-start.sh
-├── setup
-└── README.md
+    └── web-start.sh
+└── setup
 ```
