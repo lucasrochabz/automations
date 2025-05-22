@@ -6,9 +6,13 @@ Repositório de automações no Linux
 
 ```bash
 automations/
+├── aliases/
+    └── alias.md
+│
 ├── cleanup/
 ├── daily/
-    ├── open_website.sh # cows exemplo.com
-    └── web_init.sh # webinit
+    ├── website_init.sh # wsinit
+    └── website_open.sh # wsco + site.com
+│
 └── setup
 ```
