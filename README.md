@@ -11,6 +11,7 @@ automations/
 │
 ├── cleanup/
 ├── daily/
+    ├── open_folder.sh # tof
     ├── website_init.sh # wsinit
     └── website_open.sh # wsco + site.com
 │
