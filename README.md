@@ -7,13 +7,13 @@ Repositório de automações no Linux
 ```bash
 automations/
 ├── aliases/
-    └── alias.md
+│   └── alias.md
 │
 ├── cleanup/
 ├── daily/
-    ├── open_folder.sh # tof
-    ├── website_init.sh # wsinit
-    └── website_open.sh # wsco + site.com
+│   ├── open_folder.sh # tof
+│   ├── website_init.sh # wsinit
+│   └── website_open.sh # wsco + site.com
 │
 └── setup
 ```
